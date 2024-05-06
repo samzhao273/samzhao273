@@ -1,5 +1,4 @@
 Hello, I'm Sam (he/him) 👋
-I am looking for internships for Summer 2024. Feel free to reach out to me on Linkedin or email (samzhao273@gmail.com)!
 
 I am a fourth yr Computer Science student at the University of British Columbia.
 
