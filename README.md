@@ -2,7 +2,7 @@ Hello, I'm Sam (he/him) 👋
 
 I am a fourth yr Computer Science student at the University of British Columbia.
 
-Currently a Software Engineer Intern at Vial working on the EPD team. 
+Currently a Software Engineer Intern at Tesla working on the MFS team. 
 
 Previously was a Software Engineer Intern at SAP working on the User Support SAC team.
 
